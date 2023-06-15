@@ -1,3 +1,5 @@
+`InMemoryStorage` is part of Django 4.2 now ([added in PR #16161](https://github.com/django/django/pull/16262)).
+
 # dj-inmemorystorage
 
 [![image](https://travis-ci.org/waveaccounting/dj-inmemorystorage.png?branch=master)](https://travis-ci.org/waveaccounting/dj-inmemorystorage)
